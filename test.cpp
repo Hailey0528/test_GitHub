@@ -20,5 +20,6 @@ average += numbers [i]/( float ) MAX_LEN ;
 // print the average
 cout << "The average is : " << average ;
 
+// small test
 return 0;
 }
