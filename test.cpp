@@ -10,6 +10,7 @@ const int MAX_LEN = 5;
 int numbers [ MAX_LEN ] = {1 ,2 ,3 ,4 ,5};
 
 // calculation of the average
+
 float average = 0;
 for (int i = 0; i < MAX_LEN ; i++)
 {
